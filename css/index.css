@@ -61,6 +61,7 @@ header div a{
    height: 50px
 }
 
+
 form{
     
 }
@@ -70,6 +71,11 @@ form{
     top:-12px;
 }
 
+.stars{
+    position: relative;
+    left:70%;
+    top:0px;
+}
 
 /*checkbox container*/
 .container {
